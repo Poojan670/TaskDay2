@@ -1,1 +1,1 @@
-# TaskDay2
+# Simple CRUD operations in Django
